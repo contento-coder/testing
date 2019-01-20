@@ -1,4 +1,4 @@
-## My first Githug page with a theme
+## My first Git hug page with a theme
 
 You can use the [editor on GitHub](https://github.com/contento-coder/testing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
